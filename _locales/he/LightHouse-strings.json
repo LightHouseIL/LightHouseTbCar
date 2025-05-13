@@ -1,7 +1,7 @@
 {
     "LightHouse": "LightHouse Car",
     "LightHouse.description": "הרחבת מכונית LightHouse - מערכת בקרת רכב חכם",
-    "Car_Run": "התקדם",
+    "Car_Run": "קדימה",
     "Car_Back": "אחורה",
     "Car_Left": "שמאלה",
     "Car_Right": "ימינה",
