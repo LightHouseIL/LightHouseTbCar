@@ -272,7 +272,7 @@ namespace LightHouse {
     
     
     
-    //% blockId=Tinybit_CarCtrl block="CarCtrl|%index"
+    //% blockId=Tinybit_CarCtrl block="שליטה ברכב|%index"
     //% weight=93
     //% blockGap=10
     //% color="#006400"
@@ -289,7 +289,7 @@ namespace LightHouse {
         }
     }
     
-    //% blockId=Tinybit_CarCtrlSpeed block="CarCtrlSpeed|%index|speed %speed"
+    //% blockId=Tinybit_CarCtrlSpeed block="שליטה ברכב עם מהירות|%index|מהירות %speed"
     //% weight=92
     //% blockGap=10
     //% speed.min=0 speed.max=255
@@ -307,7 +307,7 @@ namespace LightHouse {
         }
     }
     
-    //% blockId=Tinybit_CarCtrlSpeed2 block="CarCtrlSpeed2|%index|speed1 %speed1|speed2 %speed2"
+    //% blockId=Tinybit_CarCtrlSpeed2 block="שליטה ברכב עם מהירות נפרדת|%index|מהירות1 %speed1|מהירות2 %speed2"
     //% weight=91
     //% blockGap=10
     //% speed1.min=0 speed1.max=255 speed2.min=0 speed2.max=255
@@ -327,7 +327,7 @@ namespace LightHouse {
         
    
     
-    //% blockId=Tinybit_Line_Sensor block="Line_Sensor|direct %direct|value %value"
+    //% blockId=Tinybit_Line_Sensor block="חיישן קו|כיוון %direct|ערך %value"
     //% weight=89
     //% blockGap=10
     //% color="#006400"
@@ -362,7 +362,7 @@ namespace LightHouse {
 
     }
 
-    //% blockId=Tinybit_Voice_Sensor block="Voice Sensor return"
+    //% blockId=Tinybit_Voice_Sensor block="חיישן קול החזר ערך"
     //% weight=88
     //% blockGap=10
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=12
@@ -375,7 +375,7 @@ namespace LightHouse {
 
     }
         
-    //% blockId=Tinybit_Ultrasonic_Car block="ultrasonic return distance(cm)"
+    //% blockId=Tinybit_Ultrasonic_Car block="חיישן אולטרסוניק החזר מרחק (ס"מ)"
     //% color="#006400"
     //% weight=87
     //% blockGap=10
